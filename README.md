@@ -1,6 +1,6 @@
 # Stock Price Predictor
 
-This is an ML model which analyze some data & predict price of stocks.
+This is an ML model which analyze some data & predict price of stocks with error of 1.24%.
 
 # Download Code
 
